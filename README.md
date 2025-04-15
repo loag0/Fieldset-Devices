@@ -8,7 +8,18 @@
   <img src="https://img.shields.io/badge/Responsive-Design-brightgreen" />
 
   <br/><br/>
-  <img src="https://github.com/YOUR_USERNAME/Fieldset-Devices/assets/preview.png" width="700" alt="FieldSet Devices preview"/>
+
+  ### Homepage
+  <img src="./web images/home.png" width="80%" alt="FieldSet Devices homepage"/>
+
+  ### Products Page
+  <img src="./web images/products.png" width="80%" alt="FieldSet Devices products"/>
+
+  ### Employee page
+  <img src="./web images/staff.png" width="80%" alt="FieldSet Devices homepage"/>
+
+  ### Contact page
+  <img src="./web images/contact.png" width="80%" alt="FieldSet Devices homepage"/>
 
   <br/>
   <a href="#✨-features">✨ Features</a> •
