@@ -17,4 +17,4 @@ The focus was on layout, visuals, and interaction — no backend, just front-end
 - A bit of JavaScript
 
 
-## 🔗 [Check out the live site](https://loag0.github.io)
+## 🔗 [Check out the live site](https://loag0.github.io/Fieldset-Devices/)
