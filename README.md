@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Responsive-Design-brightgreen" />
 
-  <br/><br/>
+  <br/>
 
 ## Website Preview
   ### Homepage
@@ -22,13 +22,6 @@
   ### Contact page
   <img src="./web images/contact.png" width="80%" alt="FieldSet Devices homepage"/>
 
-
-
-  <br/>
-  <a href="#✨-features">✨ Features</a> •
-  <a href="#🎨-design-goal">🎨 Design Goal</a> •
-  <a href="#🛠️-built-with">🛠️ Built With</a> •
-  <a href="#🔗-live-site">🔗 Live Site</a>
 </div>
 
 ## 🎨 Design Goal
