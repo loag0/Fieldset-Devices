@@ -21,6 +21,8 @@
   ### Contact page
   <img src="./web images/contact.png" width="80%" alt="FieldSet Devices homepage"/>
 
+  
+
   <br/>
   <a href="#✨-features">✨ Features</a> •
   <a href="#🎨-design-goal">🎨 Design Goal</a> •
