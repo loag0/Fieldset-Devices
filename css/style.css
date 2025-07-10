@@ -1,10 +1,14 @@
 @import url("https://kit.fontawesome.com/663537bbd5.js");
 
+:root{
+    --main-color: rgb(0, 0, 0);
+    --main-font: 'Poppins', sans-serif;
+}
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--main-font);
     margin: 0;
     height: 100%;
-    background-color: rgb(0, 0, 0);
+    background-color: var(main-color);
     flex-direction: column;
 }
 @media(max-width: 768px){
@@ -42,7 +46,11 @@ body{
     flex-direction: column; /* stack links vertically */
     gap: 0.5rem;
   }
-} 
+}
+.container{
+    background-color: var(--main-color);
+    font-family: var(main-font);
+}
 .logo{
     display: flex;
     align-items: center;
