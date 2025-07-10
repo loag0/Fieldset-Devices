@@ -25,6 +25,19 @@ body{
     top: 0;
     z-index: 10;
 }
+
+@media(max-width: 768px){
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .nav-links {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column; /* stack links vertically */
+    gap: 0.5rem;
+  }
+} 
 .logo{
     display: flex;
     align-items: center;
