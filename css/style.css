@@ -49,7 +49,7 @@ body{
 }
 .container{
     background-color: var(--main-color);
-    font-family: var(main-font);
+    font-family: var(--main-font);
 }
 .logo{
     display: flex;
